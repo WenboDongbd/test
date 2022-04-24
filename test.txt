@@ -2,7 +2,7 @@ hello git!
 hello git!
 hello git!
 hello git!
-hello git!
+hello git! 合并冲突
 hello git!
 hello git!
 hello git!
@@ -12,3 +12,4 @@ hello git!
 2222222
 33333
 这是hot_fix分支
+hot_fix 合并冲突
